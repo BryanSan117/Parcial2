@@ -13,4 +13,5 @@ import java.util.List;
  * @author Ryan Sandoval
  */
 public class FacturaEncabezado {
+    
 }
